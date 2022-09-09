@@ -1,0 +1,7 @@
+Questions are asked randomly so we'll use random() of Math objects to create the random questions
+
+if you find the correct answer, you score increase to 1
+
+else it decrease to 1
+
+To store the score we'll use JS localstorage

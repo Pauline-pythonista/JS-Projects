@@ -1,0 +1,4 @@
+Create a clock relative to our device clock
+
+We'll use JS Date() objects and his methods
+
